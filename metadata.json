@@ -1,0 +1,8 @@
+{
+  "name": "Remix Veo 3.1 Director - parse.it AI Distillation",
+  "description": "Cinematic storyboard player and interactive real-time visualizer for the 30-second Veo 3.1 AI distillation video breakdown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
